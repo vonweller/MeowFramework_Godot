@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://cg31i3bauprm"]
+
+[ext_resource type="Script" path="res://addons/GameEntry.cs" id="1_wfq5h"]
+[ext_resource type="Script" path="res://addons/FK/MonoKit.cs" id="2_rhbpq"]
+
+[node name="GameEntryNode" type="Node"]
+script = ExtResource("1_wfq5h")
+
+[node name="MonokitNode" type="Node" parent="."]
+script = ExtResource("2_rhbpq")
