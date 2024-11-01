@@ -3,7 +3,7 @@
 ## 介绍
 ![alt text](<MeowToolKit Logo1.png>)
 
-# MeowFrameWork——Godot 是MewoFrameWork超高性能框架的Godot版本
+# MeowFrameWork——Godot 是MeowFrameWork超高性能框架的Godot版本
 框架包含：godot客户端与Fantsay服务端
 
 ## [框架任务调度器TaskScheduler使用说明](addons/TaskScheduler用户手册.md)
@@ -250,3 +250,4 @@ namespace Panty.Test
 ```
 
 ## MewoFrameWork地址：https://gitee.com/PantyNeko/MeowFramework
+## Fantasy地址：https://www.code-fantasy.com/k
