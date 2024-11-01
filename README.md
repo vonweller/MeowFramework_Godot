@@ -8,7 +8,7 @@
 
 ## [框架任务调度器TaskScheduler使用说明](addons/TaskScheduler用户手册.md)
 
-## [Fantasy使用教程“待更新”](<https://www.bilibili.com/video/BV1o7SjYuEPG/?spm_id_from=333.337.search-card.all.click&vd_source=97fc06ed9ba2fd14ce1fa7aa0910acb7>)
+## [Fantasy使用教程《百万商业项目实践框架作者教学课程》”](<https://www.bilibili.com/video/BV1o7SjYuEPG/?spm_id_from=333.337.search-card.all.click&vd_source=97fc06ed9ba2fd14ce1fa7aa0910acb7>)
 
 
 ### 示例代码
