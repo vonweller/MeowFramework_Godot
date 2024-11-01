@@ -1,7 +1,7 @@
 # MeowFrameWork——Godot
 
 ## 介绍
-![alt text](<MeowToolKit Logo1-1.png>)
+![alt text](<MeowToolKit Logo1.png>)
 
 # MeowFrameWork——Godot 是MewoFrameWork超高性能框架的Godot版本
 框架包含：godot客户端与Fantsay服务端
